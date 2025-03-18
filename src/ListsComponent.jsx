@@ -1,7 +1,9 @@
+ 
 export default function ListsComponent() {
   return (
     <div>
       <p>Список 1</p>
+      
       <ul>
         <li>Элемент 1</li>
         <li>
